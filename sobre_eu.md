@@ -1,0 +1,4 @@
+- Oi, eu sou @jope7
+- estou interessado em Java, Python, C++ e HTML.
+- no momento, estou estudando Python.
+- Curiosidade: eu não sei nenhuma.
